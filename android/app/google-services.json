@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993091677126",
+    "project_id": "centraldemissoes-bacfd",
+    "storage_bucket": "centraldemissoes-bacfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993091677126:android:c0ee7466dabee17e44e0c7",
+        "android_client_info": {
+          "package_name": "com.example.central_de_missoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20Way8Oy9fsSdTQVvQ-t3uCxf2mfEBig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
